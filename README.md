@@ -15,9 +15,13 @@
 </div>
 
 ## Tecnologias de BANCO DE DADOS
+   
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width='100px' height='100px' />    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width='100px' height='100px' />    
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width='100px' height='100px' /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width='100px' height='100px' /> 
+</div>
+
 
           
 
