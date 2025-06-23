@@ -1,6 +1,6 @@
-## Olá! aqui estão algumas das tecnologias que utilizo nos desenvolvimentos  👋
+## Olá! aqui estão algumas das tecnologias que utilizo nos desenvolvimentos:  👋
 
-## Tecnologias FRONT-END
+## Tecnologias de FRONT-END
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width='100px' height='100px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width='100px' height='100px' />
@@ -11,9 +11,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width='100px' height='100px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width='100px' height='100px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width='100px' height='100px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width='100px' height='100px' />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width='100px' height='100px' />    
 </div>
+
+## Tecnologias de BANCO DE DADOS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width='100px' height='100px' />    
+          
 
           
 
