@@ -1,4 +1,4 @@
-## Olá! aqui estão algumas das tecnologias que utilizo no desenvolvimento:  👋
+## Olá! Aqui estão algumas das tecnologias que utilizo no desenvolvimento:  👋 
 
 ## Tecnologias de FRONT-END
 <div align="center">
