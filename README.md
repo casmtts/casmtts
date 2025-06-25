@@ -36,10 +36,8 @@
 </div>
 
 ## Tecnologias de Desenvolvimento Mobile
-<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width='100px' height='100px' />    
 REACT NATIVE
-</div> 
 
 
           
